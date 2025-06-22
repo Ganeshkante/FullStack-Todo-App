@@ -48,7 +48,7 @@ TodoApp/
 1. Open `backend/` in Eclipse or any IDE.
 2. Configure database in `application.properties`:
    - H2 (default) or connect your MySQL DB.
-3. Run the project using:
+3. Run the project using:mvn spring-boot:run
 
 
 
@@ -72,7 +72,7 @@ _Add screenshots here (optional)_
 ## 🙋 Author
 
 **Kante Ganesh Babu**  
-[GitHub](https://github.com/Ganeshkante) • [LinkedIn](https://www.linkedin.com/in/kante-ganesh-babu-16788a263/)
+[GitHub](https://github.com/Ganeshkante) • [LinkedIn](https://www.linkedin.com/in/ganesh-babu-kante-16788a263/)
 
 ---
 
