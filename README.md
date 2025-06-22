@@ -30,3 +30,53 @@ A complete full-stack Todo web application built with **React** and **Spring Boo
 ---
 
 ## 📁 Project Structure
+
+
+
+TodoApp/
+├── backend/ # Spring Boot backend
+└── frontend/ # React frontend
+
+
+
+---
+
+## 🛠️ How to Run
+
+### ▶️ Backend (Spring Boot)
+
+1. Open `backend/` in Eclipse or any IDE.
+2. Configure database in `application.properties`:
+   - H2 (default) or connect your MySQL DB.
+3. Run the project using:
+
+
+
+mvn spring-boot:run
+
+
+### 🌐 Frontend (React)
+
+1. Open terminal and navigate to `frontend/`:
+2. Install dependencies:
+3. Start the development server:
+
+---
+
+## 📸 Screenshots
+
+_Add screenshots here (optional)_
+
+---
+
+## 🙋 Author
+
+**Kante Ganesh Babu**  
+[GitHub](https://github.com/Ganeshkante) • [LinkedIn](https://www.linkedin.com/in/kante-ganesh-babu-16788a263/)
+
+---
+
+## ⭐ Like the Project?
+
+Give it a ⭐ on GitHub if it helped you!
+
